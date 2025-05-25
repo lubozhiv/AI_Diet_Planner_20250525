@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/AI Diet   Meal Planner/*
+!/AI Diet   Meal Planner/task/
+/AI Diet   Meal Planner/task/*
+!/AI Diet   Meal Planner/task/main.py
+!/AI Diet   Meal Planner/task/ASGI.py
+!/AI Diet   Meal Planner/task/app
+!/AI Diet   Meal Planner/task/test_planner_agent.py
+!/AI Diet   Meal Planner/task/readme.md
+!/AI Diet   Meal Planner/task/requirements.txt
+!/AI Diet   Meal Planner/task/tets_interactive.py
+!/AI Diet   Meal Planner/task/test_ask.py
+!/AI Diet   Meal Planner/task/test_planner_validation.py
+!/AI Diet   Meal Planner/task/test_api.py
+!/AI Diet   Meal Planner/task/test_meal_planner.py
+!/AI Diet   Meal Planner/task/Dockerfile
+!/AI Diet   Meal Planner/task/docker-compose.yml
